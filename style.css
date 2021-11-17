@@ -1,0 +1,18 @@
+p{
+    color: darkslategrey;
+    font-size: 20px;
+    border: solid whitesmoke;
+}
+h3,h4{
+    color:darkmagenta;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color:darkturquoise;
+    font-family:monospace;
+
+}
+body{
+    background-image: url("https://previews.123rf.com/images/zven0/zven01508/zven0150800026/43652550-white-cream-closeup-as-background.jpg");
+}
